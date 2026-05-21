@@ -885,7 +885,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "thaumaturgy#c"
+                "thaumaturgy"
               ]
             }
           }
@@ -1231,7 +1231,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "dancing lights#c"
+                "dancing lights"
               ]
             }
           }
@@ -1427,7 +1427,7 @@
             "ability": "int",
             "known": {
               "1": [
-                "minor illusion#c"
+                "minor illusion"
               ]
             }
           }
@@ -8594,7 +8594,7 @@
         "prerequisite": [
           {
             "spell": [
-              "eldritch blast#c"
+              "eldritch blast"
             ]
           }
         ],
@@ -9147,7 +9147,7 @@
         "prerequisite": [
           {
             "spell": [
-              "eldritch blast#c"
+              "eldritch blast"
             ]
           }
         ],
@@ -10040,7 +10040,7 @@
         "prerequisite": [
           {
             "spell": [
-              "eldritch blast#c"
+              "eldritch blast"
             ]
           }
         ],
@@ -16174,7 +16174,7 @@
             },
             "known": {
               "1": [
-                "light#c"
+                "light"
               ]
             }
           }
@@ -17327,7 +17327,7 @@
           {
             "known": {
               "3": [
-                "minor illusion#c"
+                "minor illusion"
               ]
             },
             "innate": {
@@ -17823,7 +17823,7 @@
           {
             "known": {
               "3": [
-                "mage hand#c"
+                "mage hand"
               ]
             },
             "expanded": {
@@ -18745,7 +18745,7 @@
           {
             "known": {
               "1": [
-                "minor illusion#c"
+                "minor illusion"
               ]
             }
           }
@@ -35094,7 +35094,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "light#c"
+                "light"
               ]
             }
           }
@@ -36870,7 +36870,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "dancing lights#c"
+                "dancing lights"
               ]
             }
           }
@@ -37272,7 +37272,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "vicious mockery#c"
+                "vicious mockery"
               ]
             }
           }
@@ -37342,7 +37342,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "thaumaturgy#c"
+                "thaumaturgy"
               ]
             }
           }
@@ -37412,7 +37412,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "thaumaturgy#c"
+                "thaumaturgy"
               ]
             }
           }
@@ -39803,7 +39803,7 @@
           {
             "known": {
               "1": [
-                "spare the dying#c"
+                "spare the dying"
               ]
             },
             "expanded": {
@@ -41431,7 +41431,7 @@
             "ability": "wis",
             "known": {
               "1": [
-                "chill touch#c"
+                "chill touch"
               ]
             }
           }
@@ -42819,7 +42819,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "light#c"
+                "light"
               ]
             }
           }
@@ -44187,7 +44187,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "poison spray#c"
+                "poison spray"
               ]
             }
           }
@@ -50360,7 +50360,7 @@
         "prerequisite": [
           {
             "spell": [
-              "eldritch blast#c"
+              "eldritch blast"
             ]
           }
         ],
@@ -50411,7 +50411,7 @@
         "prerequisite": [
           {
             "spell": [
-              "eldritch blast#c"
+              "eldritch blast"
             ]
           }
         ],
@@ -51002,7 +51002,7 @@
             },
             "known": {
               "1": [
-                "spare the dying#c"
+                "spare the dying"
               ]
             }
           }
@@ -51171,14 +51171,14 @@
           {
             "known": {
               "3": [
-                "prestidigitation#c"
+                "prestidigitation"
               ]
             }
           },
           {
             "known": {
               "3": [
-                "druidcraft#c"
+                "druidcraft"
               ]
             }
           }
@@ -52385,8 +52385,8 @@
           {
             "known": {
               "1": [
-                "sacred flame#c",
-                "light#c"
+                "sacred flame",
+                "light"
               ]
             },
             "expanded": {
@@ -58053,7 +58053,7 @@
           {
             "known": {
               "1": [
-                "friends#c"
+                "friends"
               ]
             }
           }
@@ -59019,7 +59019,7 @@
             "ability": "int",
             "known": {
               "1": [
-                "mage hand#c"
+                "mage hand"
               ]
             }
           }
@@ -59100,7 +59100,7 @@
             "ability": "wis",
             "known": {
               "1": [
-                "mage hand#c"
+                "mage hand"
               ]
             }
           }
@@ -59257,7 +59257,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "thaumaturgy#c"
+                "thaumaturgy"
               ]
             }
           }
@@ -59310,7 +59310,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "thaumaturgy#c"
+                "thaumaturgy"
               ]
             }
           }
@@ -59366,7 +59366,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "friends#c"
+                "friends"
               ]
             }
           }
@@ -59422,7 +59422,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "minor illusion#c"
+                "minor illusion"
               ]
             }
           }
@@ -59478,7 +59478,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "ray of frost#c"
+                "ray of frost"
               ]
             }
           }
@@ -59528,7 +59528,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "mage hand#c"
+                "mage hand"
               ]
             }
           }
@@ -59575,7 +59575,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "mage hand#c"
+                "mage hand"
               ]
             }
           }
@@ -59628,7 +59628,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "thaumaturgy#c"
+                "thaumaturgy"
               ]
             }
           }
@@ -61720,8 +61720,8 @@
           {
             "expanded": {
               "s0": [
-                "friends#c",
-                "message#c"
+                "friends",
+                "message"
               ],
               "s1": [
                 "command",
@@ -62162,8 +62162,8 @@
           {
             "expanded": {
               "s0": [
-                "fire bolt#c",
-                "sacred flame#c"
+                "fire bolt",
+                "sacred flame"
               ],
               "s1": [
                 "guiding bolt",
@@ -62608,8 +62608,8 @@
           {
             "expanded": {
               "s0": [
-                "encode thoughts|ggr#c",
-                "mage hand#c"
+                "encode thoughts|ggr",
+                "mage hand"
               ],
               "s1": [
                 "disguise self",
@@ -63054,8 +63054,8 @@
           {
             "expanded": {
               "s0": [
-                "dancing lights#c",
-                "spare the dying#c"
+                "dancing lights",
+                "spare the dying"
               ],
               "s1": [
                 "entangle",
@@ -63506,8 +63506,8 @@
           {
             "expanded": {
               "s0": [
-                "fire bolt#c",
-                "produce flame#c"
+                "fire bolt",
+                "produce flame"
               ],
               "s1": [
                 "compelled duel",
@@ -63955,8 +63955,8 @@
           {
             "expanded": {
               "s0": [
-                "produce flame#c",
-                "shocking grasp#c"
+                "produce flame",
+                "shocking grasp"
               ],
               "s1": [
                 "chaos bolt|xge",
@@ -64395,8 +64395,8 @@
           {
             "expanded": {
               "s0": [
-                "friends#c",
-                "guidance#c"
+                "friends",
+                "guidance"
               ],
               "s1": [
                 "command",
@@ -64850,8 +64850,8 @@
           {
             "expanded": {
               "s0": [
-                "fire bolt#c",
-                "vicious mockery#c"
+                "fire bolt",
+                "vicious mockery"
               ],
               "s1": [
                 "burning hands",
@@ -65351,8 +65351,8 @@
           {
             "expanded": {
               "s0": [
-                "druidcraft#c",
-                "friends#c"
+                "druidcraft",
+                "friends"
               ],
               "s1": [
                 "animal friendship",
@@ -65809,8 +65809,8 @@
           {
             "expanded": {
               "s0": [
-                "acid splash#c",
-                "druidcraft#c"
+                "acid splash",
+                "druidcraft"
               ],
               "s1": [
                 "detect poison and disease",
@@ -68958,7 +68958,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "minor illusion#c"
+                "minor illusion"
               ]
             }
           }
@@ -69085,7 +69085,7 @@
             "ability": "int",
             "known": {
               "1": [
-                "message#c"
+                "message"
               ]
             }
           }
@@ -69336,7 +69336,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "gust|xge#c"
+                "gust|xge"
               ]
             }
           }
@@ -69730,7 +69730,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "prestidigitation#c",
+                "prestidigitation",
                 "purify food and drink",
                 "unseen servant"
               ]
@@ -69990,7 +69990,7 @@
             "ability": "int",
             "known": {
               "1": [
-                "mending#c",
+                "mending",
                 "magic weapon"
               ]
             }
@@ -72316,7 +72316,7 @@
             "ability": "wis",
             "known": {
               "1": [
-                "light#c"
+                "light"
               ]
             }
           }
@@ -72372,7 +72372,7 @@
             "ability": "wis",
             "known": {
               "1": [
-                "druidcraft#c"
+                "druidcraft"
               ]
             }
           }
@@ -76665,7 +76665,7 @@
             "ability": "inherit",
             "known": {
               "_": [
-                "mage hand#c"
+                "mage hand"
               ]
             }
           }
@@ -79785,7 +79785,7 @@
           {
             "known": {
               "2": [
-                "chill touch#c"
+                "chill touch"
               ]
             },
             "prepared": {
@@ -79867,7 +79867,7 @@
           {
             "known": {
               "2": [
-                "guidance#c"
+                "guidance"
               ]
             },
             "prepared": {
@@ -80456,7 +80456,7 @@
           {
             "known": {
               "3": [
-                "mage hand#c",
+                "mage hand",
                 "faerie fire"
               ],
               "5": [
@@ -80622,7 +80622,7 @@
           {
             "known": {
               "1": [
-                "mind sliver|tce#c",
+                "mind sliver|tce",
                 "arms of Hadar",
                 "dissonant whispers"
               ],
@@ -92468,7 +92468,7 @@
           {
             "known": {
               "3": [
-                "guidance#c"
+                "guidance"
               ]
             }
           }
@@ -93788,7 +93788,7 @@
           {
             "known": {
               "3": [
-                "thaumaturgy#c"
+                "thaumaturgy"
               ]
             }
           }
@@ -95499,8 +95499,8 @@
             },
             "known": {
               "_": [
-                "light#c",
-                "sacred flame#c"
+                "light",
+                "sacred flame"
               ]
             },
             "innate": {
@@ -95526,8 +95526,8 @@
             },
             "known": {
               "_": [
-                "light#c",
-                "thaumaturgy#c"
+                "light",
+                "thaumaturgy"
               ]
             },
             "innate": {
@@ -95553,8 +95553,8 @@
             },
             "known": {
               "_": [
-                "sacred flame#c",
-                "thaumaturgy#c"
+                "sacred flame",
+                "thaumaturgy"
               ]
             },
             "innate": {
@@ -95580,8 +95580,8 @@
             },
             "known": {
               "_": [
-                "fire bolt#c",
-                "prestidigitation#c"
+                "fire bolt",
+                "prestidigitation"
               ]
             },
             "innate": {
@@ -95607,8 +95607,8 @@
             },
             "known": {
               "_": [
-                "fire bolt#c",
-                "ray of frost#c"
+                "fire bolt",
+                "ray of frost"
               ]
             },
             "innate": {
@@ -95634,8 +95634,8 @@
             },
             "known": {
               "_": [
-                "prestidigitation#c",
-                "ray of frost#c"
+                "prestidigitation",
+                "ray of frost"
               ]
             },
             "innate": {
@@ -95661,8 +95661,8 @@
             },
             "known": {
               "_": [
-                "druidcraft#c",
-                "guidance#c"
+                "druidcraft",
+                "guidance"
               ]
             },
             "innate": {
@@ -95688,8 +95688,8 @@
             },
             "known": {
               "_": [
-                "druidcraft#c",
-                "mage hand#c"
+                "druidcraft",
+                "mage hand"
               ]
             },
             "innate": {
@@ -95715,8 +95715,8 @@
             },
             "known": {
               "_": [
-                "guidance#c",
-                "mage hand#c"
+                "guidance",
+                "mage hand"
               ]
             },
             "innate": {
@@ -95742,8 +95742,8 @@
             },
             "known": {
               "_": [
-                "sacred flame#c",
-                "thaumaturgy#c"
+                "sacred flame",
+                "thaumaturgy"
               ]
             },
             "innate": {
@@ -95769,8 +95769,8 @@
             },
             "known": {
               "_": [
-                "sacred flame#c",
-                "vicious mockery#c"
+                "sacred flame",
+                "vicious mockery"
               ]
             },
             "innate": {
@@ -95796,8 +95796,8 @@
             },
             "known": {
               "_": [
-                "thaumaturgy#c",
-                "vicious mockery#c"
+                "thaumaturgy",
+                "vicious mockery"
               ]
             },
             "innate": {
@@ -95823,8 +95823,8 @@
             },
             "known": {
               "_": [
-                "chill touch#c",
-                "druidcraft#c"
+                "chill touch",
+                "druidcraft"
               ]
             },
             "innate": {
@@ -95850,8 +95850,8 @@
             },
             "known": {
               "_": [
-                "chill touch#c",
-                "spare the dying#c"
+                "chill touch",
+                "spare the dying"
               ]
             },
             "innate": {
@@ -95877,8 +95877,8 @@
             },
             "known": {
               "_": [
-                "druidcraft#c",
-                "spare the dying#c"
+                "druidcraft",
+                "spare the dying"
               ]
             },
             "innate": {
@@ -96084,7 +96084,7 @@
             },
             "known": {
               "1": [
-                "light#c"
+                "light"
               ]
             }
           }
@@ -96763,7 +96763,7 @@
             },
             "known": {
               "1": [
-                "druidcraft#c"
+                "druidcraft"
               ]
             }
           }
@@ -96954,7 +96954,7 @@
             },
             "known": {
               "1": [
-                "mage hand#c"
+                "mage hand"
               ]
             }
           }
@@ -97026,7 +97026,7 @@
             },
             "known": {
               "1": [
-                "mage hand#c"
+                "mage hand"
               ]
             }
           }
@@ -98406,7 +98406,7 @@
             },
             "known": {
               "1": [
-                "poison spray#c"
+                "poison spray"
               ]
             }
           }
@@ -98491,7 +98491,7 @@
             },
             "known": {
               "1": [
-                "shocking grasp#c"
+                "shocking grasp"
               ]
             }
           }
@@ -98545,7 +98545,7 @@
             },
             "known": {
               "1": [
-                "blade ward#c"
+                "blade ward"
               ]
             }
           }
@@ -98607,7 +98607,7 @@
             },
             "known": {
               "1": [
-                "produce flame#c"
+                "produce flame"
               ]
             }
           }
@@ -98675,7 +98675,7 @@
             },
             "known": {
               "1": [
-                "acid splash#c"
+                "acid splash"
               ]
             }
           }
@@ -99599,7 +99599,7 @@
           {
             "known": {
               "1": [
-                "dancing lights#c"
+                "dancing lights"
               ]
             },
             "ability": {
@@ -99613,7 +99613,7 @@
           {
             "known": {
               "1": [
-                "light#c"
+                "light"
               ]
             },
             "ability": {
@@ -99627,7 +99627,7 @@
           {
             "known": {
               "1": [
-                "sacred flame#c"
+                "sacred flame"
               ]
             },
             "ability": {
@@ -101641,14 +101641,14 @@
           {
             "innate": {
               "3": [
-                "druidcraft#c"
+                "druidcraft"
               ]
             }
           },
           {
             "innate": {
               "3": [
-                "thaumaturgy#c"
+                "thaumaturgy"
               ]
             }
           }
@@ -102699,7 +102699,7 @@
             },
             "known": {
               "_": [
-                "minor illusion#c"
+                "minor illusion"
               ]
             }
           },
@@ -102714,7 +102714,7 @@
             },
             "known": {
               "_": [
-                "chill touch#c"
+                "chill touch"
               ]
             }
           },
@@ -102729,7 +102729,7 @@
             },
             "known": {
               "_": [
-                "sacred flame#c"
+                "sacred flame"
               ]
             }
           },
@@ -102744,7 +102744,7 @@
             },
             "known": {
               "_": [
-                "guidance#c"
+                "guidance"
               ]
             }
           },
@@ -102759,7 +102759,7 @@
             },
             "known": {
               "_": [
-                "mage hand#c"
+                "mage hand"
               ]
             }
           }
@@ -103289,7 +103289,7 @@
           {
             "known": {
               "_": [
-                "prestidigitation#c"
+                "prestidigitation"
               ]
             }
           }
@@ -103354,7 +103354,7 @@
             "ability": "cha",
             "known": {
               "1": [
-                "light|xphb#c"
+                "light|xphb"
               ]
             }
           }
@@ -103824,7 +103824,7 @@
             },
             "known": {
               "1": [
-                "dancing lights|xphb#c"
+                "dancing lights|xphb"
               ]
             }
           },
@@ -103890,7 +103890,7 @@
             },
             "known": {
               "1": [
-                "druidcraft|xphb#c"
+                "druidcraft|xphb"
               ]
             }
           }
@@ -104039,7 +104039,7 @@
                 },
                 "known": {
                   "1": [
-                    "dancing lights|xphb#c"
+                    "dancing lights|xphb"
                   ]
                 }
               }
@@ -104146,7 +104146,7 @@
                 },
                 "known": {
                   "1": [
-                    "druidcraft|xphb#c"
+                    "druidcraft|xphb"
                   ]
                 }
               }
@@ -104262,7 +104262,7 @@
                 },
                 "known": {
                   "1": [
-                    "minor illusion|xphb#c"
+                    "minor illusion|xphb"
                   ]
                 }
               }
@@ -104295,8 +104295,8 @@
                 },
                 "known": {
                   "1": [
-                    "mending|xphb#c",
-                    "prestidigitation|xphb#c"
+                    "mending|xphb",
+                    "prestidigitation|xphb"
                   ]
                 }
               }
@@ -104805,7 +104805,7 @@
             },
             "known": {
               "1": [
-                "thaumaturgy|xphb#c"
+                "thaumaturgy|xphb"
               ]
             }
           }
@@ -104929,8 +104929,8 @@
                 },
                 "known": {
                   "1": [
-                    "thaumaturgy|xphb#c",
-                    "poison spray|xphb#c"
+                    "thaumaturgy|xphb",
+                    "poison spray|xphb"
                   ]
                 }
               }
@@ -104984,8 +104984,8 @@
                 },
                 "known": {
                   "1": [
-                    "thaumaturgy|xphb#c",
-                    "chill touch|xphb#c"
+                    "thaumaturgy|xphb",
+                    "chill touch|xphb"
                   ]
                 }
               }
@@ -105039,8 +105039,8 @@
                 },
                 "known": {
                   "1": [
-                    "thaumaturgy|xphb#c",
-                    "fire bolt|xphb#c"
+                    "thaumaturgy|xphb",
+                    "fire bolt|xphb"
                   ]
                 }
               }
@@ -110807,7 +110807,7 @@
             "ability": "inherit",
             "known": {
               "_": [
-                "mage hand|xphb#c"
+                "mage hand|xphb"
               ]
             }
           }
@@ -118840,7 +118840,7 @@
           {
             "known": {
               "3": [
-                "guidance|xphb#c"
+                "guidance|xphb"
               ]
             },
             "prepared": {
@@ -119378,7 +119378,7 @@
           {
             "known": {
               "3": [
-                "minor illusion|xphb#c"
+                "minor illusion|xphb"
               ]
             },
             "innate": {
@@ -119414,7 +119414,7 @@
           {
             "known": {
               "3": [
-                "elementalism|xphb#c"
+                "elementalism|xphb"
               ]
             },
             "ability": "wis"
@@ -119783,7 +119783,7 @@
           {
             "known": {
               "3": [
-                "mage hand|xphb#c"
+                "mage hand|xphb"
               ]
             },
             "expanded": {
@@ -120195,7 +120195,7 @@
                 "calm emotions|xphb",
                 "detect thoughts|xphb",
                 "dissonant whispers|xphb",
-                "mind sliver|xphb#c"
+                "mind sliver|xphb"
               ],
               "5": [
                 "hunger of hadar|xphb",
@@ -120381,8 +120381,8 @@
           {
             "known": {
               "1": [
-                "sacred flame|xphb#c",
-                "light|xphb#c"
+                "sacred flame|xphb",
+                "light|xphb"
               ]
             },
             "prepared": {
@@ -120723,7 +120723,7 @@
           {
             "known": {
               "3": [
-                "minor illusion|xphb#c",
+                "minor illusion|xphb",
                 {
                   "choose": "level=0;1;2|class=Wizard|school=I"
                 },
@@ -135405,7 +135405,7 @@
             "name": "Light",
             "known": {
               "_": [
-                "light|xphb#c"
+                "light|xphb"
               ]
             }
           },
@@ -138752,7 +138752,7 @@
             },
             "known": {
               "_": [
-                "ray of frost|xphb#c"
+                "ray of frost|xphb"
               ]
             }
           },
@@ -139458,7 +139458,7 @@
             },
             "known": {
               "_": [
-                "sacred flame|xphb#c"
+                "sacred flame|xphb"
               ]
             }
           }
@@ -139733,7 +139733,7 @@
             "prepared": {
               "3": [
                 "chromatic orb|xphb",
-                "elementalism|xphb#c",
+                "elementalism|xphb",
                 "thunderous smite|xphb"
               ],
               "5": [
@@ -139813,9 +139813,9 @@
                 {
                   "choose": {
                     "from": [
-                      "minor illusion|xphb#c",
-                      "blade ward|xphb#c",
-                      "chill touch|xphb#c"
+                      "minor illusion|xphb",
+                      "blade ward|xphb",
+                      "chill touch|xphb"
                     ],
                     "count": 1
                   }
@@ -141409,7 +141409,7 @@
             },
             "known": {
               "1": [
-                "starry wisp|xphb#c"
+                "starry wisp|xphb"
               ]
             }
           }
@@ -141518,7 +141518,7 @@
                 },
                 "known": {
                   "1": [
-                    "starry wisp|xphb#c"
+                    "starry wisp|xphb"
                   ]
                 }
               }
@@ -141666,7 +141666,7 @@
             },
             "known": {
               "1": [
-                "produce flame#c"
+                "produce flame"
               ]
             }
           }
@@ -141829,7 +141829,7 @@
           {
             "known": {
               "1": [
-                "ray of frost|xphb#c"
+                "ray of frost|xphb"
               ]
             },
             "innate": {
@@ -146857,7 +146857,7 @@
             },
             "known": {
               "_": [
-                "mending|xphb#c"
+                "mending|xphb"
               ]
             },
             "prepared": {
@@ -147100,7 +147100,7 @@
             },
             "known": {
               "_": [
-                "message|xphb#c"
+                "message|xphb"
               ]
             },
             "prepared": {
@@ -147350,7 +147350,7 @@
             },
             "known": {
               "_": [
-                "minor illusion|xphb#c"
+                "minor illusion|xphb"
               ]
             },
             "prepared": {
@@ -147471,7 +147471,7 @@
             },
             "known": {
               "_": [
-                "thunderclap|xphb#c"
+                "thunderclap|xphb"
               ]
             },
             "prepared": {
@@ -158869,7 +158869,7 @@
             "ability": "con",
             "known": {
               "1": [
-                "produce flame#c"
+                "produce flame"
               ]
             }
           }
@@ -158938,7 +158938,7 @@
             "ability": "con",
             "known": {
               "1": [
-                "shape water|xge#c"
+                "shape water|xge"
               ]
             }
           }
@@ -163330,7 +163330,7 @@
             },
             "known": {
               "1": [
-                "druidcraft#c"
+                "druidcraft"
               ]
             },
             "innate": {
