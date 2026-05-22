@@ -7115,7 +7115,7 @@ the License, but only in their entirety and only with respect to the Combined
 Software.
 --------------------------------------------------------------------------------
 get
-get_storage
+get_storage_wasm
 
 MIT License
 
