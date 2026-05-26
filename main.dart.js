@@ -120431,55 +120431,55 @@ A.aV_.prototype={
 $0(){return this.a.axy(this.b,this.c)},
 $S:0}
 A.aUZ.prototype={
-$0(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b="(Immune!) ",a="(Resistant!) ",a0="(Vulnerable!) "
-if(d.a){s=$.WQ().a
+$0(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a="(Immune!) ",a0="(Resistant!) ",a1="(Vulnerable!) "
+if(c.a){s=$.WQ().a
 r=A.cl()
 q=!1
 p=!1
 o=!1
-if(s){n=d.b
+if(s){n=c.b
 m=n.d
-if(m!=null&&d.c.d instanceof A.l4){l=t.Cg.a(d.c.d)
+if(m!=null&&c.c.d instanceof A.l4){l=t.Cg.a(c.c.d)
 o=B.c.m(B.b.lr(l.fr),m)
 if(o)r.b=0
 else{p=B.c.m(B.b.lr(l.dy),m)
 if(p)r.b=B.d.cn(n.b/2)
 else{q=B.c.m(B.b.lr(l.fx),m)
-n=n.b
-if(q)r.b=B.f.cn(n*2)
-else r.b=n}}}else r.b=n.b}n=d.c
-m=n.d
-if(m instanceof A.hm)k=m.db
-else{j=t.Cg.a(m).as.a
-k=j==null?10:j}j=n.f
-i=n.Aq(s?B.d.cJ(j-r.aP(),0,k):B.d.cJ(j+r.aP(),0,k))
-j=d.d
-J.b6(A.aA(j,!1,t.c),new A.j0(d.e,i))
-h=n.b
-if(h==null)h=m.a
-if(s){if(o)n=b
-else if(p)n=a
-else n=q?a0:""
-m=A.h(r.aP())
-g=d.b.d
-g=g!=null?" "+A.la(g):""
-f=n+"Dealt "+m+g+" damage to "+h+" from cursor charge."}else f="Healed "+h+" for "+A.h(r.aP())+" HP from cursor charge."
-n=d.b
-A.bgF(new A.D5(f,"Charge Applied",n.a,new A.fz(Date.now(),0,!1)))
-if(s)if(n.d!=null){e=B.b.oD(B.w3,new A.aUW(n))
-$.BE().iJ(e)}else $.BE().iJ(B.jd)
+m=n.b
+if(q)r.b=B.f.cn(m*2)
+else r.b=m}}}else r.b=n.b}else{n=c.b
+r.b=n.b}m=c.c
+k=m.d
+if(k instanceof A.hm)j=k.db
+else{i=t.Cg.a(k).as.a
+j=i==null?10:i}i=m.f
+h=m.Aq(s?B.d.cJ(i-r.aP(),0,j):B.d.cJ(i+r.aP(),0,j))
+i=c.d
+J.b6(A.aA(i,!1,t.c),new A.j0(c.e,h))
+g=m.b
+if(g==null)g=k.a
+if(s){if(o)m=a
+else if(p)m=a0
+else m=q?a1:""
+k=A.h(r.aP())
+f=n.d
+f=f!=null?" "+A.la(f):""
+e=m+"Dealt "+k+f+" damage to "+g+" from cursor charge."}else e="Healed "+g+" for "+A.h(r.aP())+" HP from cursor charge."
+A.bgF(new A.D5(e,"Charge Applied",n.a,new A.fz(Date.now(),0,!1)))
+if(s)if(n.d!=null){d=B.b.oD(B.w3,new A.aUW(n))
+$.BE().iJ(d)}else $.BE().iJ(B.jd)
 else $.BE().iJ(B.jc)
-if(s){if(o)s=b
-else if(p)s=a
-else s=q?a0:""
+if(s){if(o)s=a
+else if(p)s=a0
+else s=q?a1:""
 m=A.h(r.aP())
 n=n.d
 n=n!=null?" "+A.la(n):""
-n=s+"Dealt "+m+n+" damage to "+h+" from cursor charge!"
-s=n}else s="Healed "+h+" for "+A.h(r.aP())+" HP from cursor charge!"
-A.pl(j,s,c)}else{s=d.d
+n=s+"Dealt "+m+n+" damage to "+g+" from cursor charge!"
+s=n}else s="Healed "+g+" for "+A.h(r.aP())+" HP from cursor charge!"
+A.pl(i,s,b)}else{s=c.d
 n=t.c
-A.fd(s,A.C2(new A.CR(d.e,c),c,A.aA(s,!1,n),n),c,1)}},
+A.fd(s,A.C2(new A.CR(c.e,b),b,A.aA(s,!1,n),n),b,1)}},
 $S:0}
 A.aUW.prototype={
 $1(a){return a.b===this.a.d},
