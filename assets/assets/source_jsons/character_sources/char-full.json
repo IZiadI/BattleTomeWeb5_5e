@@ -1592,6 +1592,7 @@
         "hasFluffImages": true
       },
       {
+        "name": "Base",
         "source": "PHB",
         "raceName": "Human",
         "raceSource": "PHB",

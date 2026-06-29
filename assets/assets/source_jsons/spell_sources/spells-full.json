@@ -2163,7 +2163,7 @@
   },
   {
     "sourceAcronym": "FRHOF",
-    "sourceName": "FRHOF",
+    "sourceName": "Forgotten Realms: Hall of Fame",
     "spell": [
       {
         "name": "Alustriel's Mooncloak",
@@ -4482,7 +4482,7 @@
   },
   {
     "sourceAcronym": "IDROTF",
-    "sourceName": "IDROTF",
+    "sourceName": "Icewind Dale: Rime of the Frostmaiden",
     "spell": [
       {
         "name": "Create Magen",
@@ -36840,7 +36840,7 @@
   },
   {
     "sourceAcronym": "SATO",
-    "sourceName": "SATO",
+    "sourceName": "Strixhaven: A Curriculum of Chaos",
     "spell": [
       {
         "name": "Gate Seal",

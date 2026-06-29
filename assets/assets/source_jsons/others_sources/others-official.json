@@ -276,7 +276,7 @@
         ]
       }
     ],
-    "dise": [
+    "disease": [
       {
         "name": "Saprophytic Plague",
         "source": "CM",
@@ -848,7 +848,7 @@
         ]
       }
     ],
-    "acti": [
+    "action": [
       {
         "name": "Activate an Item",
         "source": "DMG",
@@ -1065,7 +1065,7 @@
         ]
       }
     ],
-    "dise": [
+    "disease": [
       {
         "name": "Cackle Fever",
         "source": "DMG",
@@ -4087,7 +4087,7 @@
         ]
       }
     ],
-    "dise": [
+    "disease": [
       {
         "name": "Frigid Woe",
         "source": "EGW",
@@ -4230,7 +4230,7 @@
   {
     "name": "Ghosts of Saltmarsh",
     "acronym": "GoS",
-    "dise": [
+    "disease": [
       {
         "name": "Bluerot",
         "source": "GoS",
@@ -9441,7 +9441,7 @@
         ]
       }
     ],
-    "dise": [
+    "disease": [
       {
         "name": "Arcane Blight",
         "source": "IDRotF",
@@ -11294,7 +11294,7 @@
   {
     "name": "Out of the Abyss",
     "acronym": "OotA",
-    "dise": [
+    "disease": [
       {
         "name": "Grackle-Lung",
         "source": "OotA",
@@ -11310,7 +11310,7 @@
   {
     "name": "Player's Handbook",
     "acronym": "PHB",
-    "acti": [
+    "action": [
       {
         "name": "Cast a Spell",
         "source": "PHB",
@@ -11617,7 +11617,7 @@
         ]
       }
     ],
-    "cond": [
+    "condition": [
       {
         "name": "Blinded",
         "source": "PHB",
@@ -12013,7 +12013,7 @@
         "hasFluffImages": true
       }
     ],
-    "dise": [
+    "disease": [
       {
         "name": "Blinding Sickness",
         "source": "PHB",
@@ -13548,7 +13548,7 @@
   {
     "name": "Tales from the Yawning Portal",
     "acronym": "TftYP",
-    "dise": [
+    "disease": [
       {
         "name": "Super-Tetanus",
         "source": "TftYP",
@@ -13940,7 +13940,7 @@
   {
     "name": "The Orrery of the Wanderer",
     "acronym": "OoW",
-    "dise": [
+    "disease": [
       {
         "name": "Ghoul Gut",
         "source": "OoW",
@@ -13955,7 +13955,7 @@
   {
     "name": "Tomb of Annihilation",
     "acronym": "ToA",
-    "dise": [
+    "disease": [
       {
         "name": "Mad Monkey Fever",
         "source": "ToA",
@@ -15317,7 +15317,7 @@
         "hasFluffImages": true
       }
     ],
-    "dise": [
+    "disease": [
       {
         "name": "The Gnawing Plague",
         "source": "VRGR",
@@ -15400,7 +15400,7 @@
   {
     "name": "Waterdeep: Dungeon of the Mad Mage",
     "acronym": "WDMM",
-    "dise": [
+    "disease": [
       {
         "name": "Spider Eggs",
         "source": "WDMM",
@@ -15892,7 +15892,7 @@
         ]
       }
     ],
-    "acti": [
+    "action": [
       {
         "name": "Identify a Spell",
         "source": "XGE",
