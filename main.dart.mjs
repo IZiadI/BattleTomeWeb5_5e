@@ -909,6 +909,7 @@ class CompiledApp {
       _2319: x0 => x0.trustedTypes,
       _2320: (x0,x1) => { x0.text = x1 },
       _2321: o => o instanceof Array,
+      _2322: (a, i) => a.splice(i, 1)[0],
       _2324: (a, l) => a.length = l,
       _2325: a => a.pop(),
       _2326: (a, i) => a.splice(i, 1),
