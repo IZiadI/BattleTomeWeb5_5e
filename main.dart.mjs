@@ -916,6 +916,7 @@ class CompiledApp {
       _2327: (a, s) => a.join(s),
       _2328: (a, s, e) => a.slice(s, e),
       _2331: a => a.length,
+      _2332: (a, l) => a.length = l,
       _2333: (a, i) => a[i],
       _2334: (a, i, v) => a[i] = v,
       _2336: o => {
